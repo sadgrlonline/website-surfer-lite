@@ -2,6 +2,9 @@
 
 This is based on my other project, [website-surfer](https://github.com/sadgrlonline/website-surfer). The main difference is that you do not need a complex database to run this! You could simply copy the page onto your static site, replace the URLs in the JavaScript, and run your own 'surfer'.
 
+## Preview
+You can preview this project [here](https://codepen.io/sadness97/pen/YzrexLz?editors=1011) or [here](https://sadgrlonline.github.io/website-surfer-lite/).
+
 ## How to Use
 
 1. Copy the three files from this repo into a folder on your website. 
